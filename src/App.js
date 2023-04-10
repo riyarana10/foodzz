@@ -6,6 +6,8 @@ import {
   Route,
 } from "react-router-dom";
 import Login from './screens/Login';
+// import '../node_modules/bootstrap-dark-5/dist/css';
+import '../node_modules/bootstrap/dist/js/bootstrap.bundle';
 function App() {
   return (
     <Router>
