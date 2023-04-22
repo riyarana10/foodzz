@@ -5,7 +5,7 @@ export default function Cards() {
     <div>
       <div>
         <div class="card mt-5" style={{ width: "18rem", maxWidth: "360px" }}>
-          {/* <img src="..." class="card-img-top" alt="..." /> */}
+          <img src="https://wallpaper-house.com/data/out/9/wallpaper2you_301718.jpg" class="card-img-top" alt="..." />
           <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">
